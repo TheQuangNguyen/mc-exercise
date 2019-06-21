@@ -3,4 +3,4 @@ This is what Bob & Carol did on Bob's computer when working on the second featur
 This is what Bob and Carol did on carol's computer when working on the first feature hahaha its funny.
 this is what ted and alice on ted's computer  when working ont he first feature hahahahaha not funny.
 This is what Carol & Ted on Carol's computer when working on the third feature. 
-
+This is what Alice and Bob on Alices computer when working on the third feature. 
